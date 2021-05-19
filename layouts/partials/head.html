@@ -13,16 +13,7 @@
     <!-- Google Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900">
     <!-- Theme SCSS -->
-    {{ $style := resources.Get "scss/devresume.scss" | resources.ExecuteAsTemplate "scss/devresume.scss" . | toCSS (dict "targetPath" "assets/css/devresume.css") | minify | fingerprint }}
+    {{ $themeStyle := resources.Get "scss/devresume.scss" | resources.ExecuteAsTemplate "scss/devresume.scss" . | toCSS }}
+    {{ $customStyle := resources.Get "scss/main.scss" | toCSS }}
+    {{ $style := slice $themeStyle $customStyle | resources.Concat "assets/css/bundle.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
-    <style>
-        .icon-qiita:before {
-            content: '';
-            background-image: url('/assets/images/qiita.png');
-            display: inline-block;
-            width: 0.875em;
-            height: 0.875em;
-            background-size: contain;
-            vertical-align: bottom;
-        }
-    </style>
