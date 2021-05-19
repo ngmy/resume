@@ -1,0 +1,16 @@
+- id: awards
+  translation: Awards
+- id: education
+  translation: 学歴
+- id: experiences
+  translation: 職務経験
+- id: information
+  translation: その他
+- id: interests
+  translation: 趣味
+- id: languages
+  translation: 語学力
+- id: projects
+  translation: サイドプロジェクト
+- id: skills
+  translation: スキル
