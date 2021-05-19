@@ -2,7 +2,7 @@
 
 baseURL = "https://ngmy.github.io/resume/"
 languageCode = "ja"
-title = "職務経歴書"
+title = "永宮悠大の職務経歴書"
 theme = "hugo-devresume-theme"
 googleAnalytics = "G-20TT5CYF3T"
 defaultContentLanguage = "ja"
@@ -254,12 +254,12 @@ defaultContentLanguage = "ja"
         [[params.projects.list]]
         title = "Webloyer"
         meta = "オープンソース"
-        tagline = "PHP製のデプロイツール「Deployer」のWebユーザーインターフェース。 <a class=\"resume-link\" href=\"https://github.com/ngmy/webloyer\" target=\"_blank\">https://github.com/ngmy/webloyer</a>"
+        tagline = "PHP製のデプロイツール「Deployer」のWebユーザーインターフェイス。Laravelを使用してドメイン駆動設計で実装。 <a class=\"resume-link\" href=\"https://github.com/ngmy/webloyer\" target=\"_blank\">https://github.com/ngmy/webloyer</a>"
 
         [[params.projects.list]]
         title = "PHP WebDAV Client"
         meta = "オープンソース"
-        tagline = "PHP用のWebDAVクライアント。 <a class=\"resume-link\" href=\"https://github.com/ngmy/l4-dav\" target=\"_blank\">https://github.com/ngmy/l4-dav</a>"
+        tagline = "PHP用のWebDAVクライアント。PSR-7（HTTPメッセージインターフェイス）、PSR-17（HTTPファクトリ）、PST-18（HTTPクライアント）を使用して実装。 <a class=\"resume-link\" href=\"https://github.com/ngmy/l4-dav\" target=\"_blank\">https://github.com/ngmy/l4-dav</a>"
 
 
 
@@ -289,8 +289,9 @@ defaultContentLanguage = "ja"
         details = "2007 · 基本情報技術者試験"
 
         [[params.information.list]]
-        title = "参考URL"
-        details = "人となり https://www.wantedly.com/companies/whiteplus/post_articles/140169"
+        title = "関連記事"
+        [[params.information.list.items]]
+        details = "【社員インタビュー#エンジニア】WEBだけでなくリアルなサービスが絡んでいるのが面白い | ホワプラSTYLE · <a class=\"resume-link\" href=\"https://style.wh-plus.co.jp/interview-nagamiyayuta/\" target=\"_blank\">https://style.wh-plus.co.jp/interview-nagamiyayuta/</a>"
 
 
 
