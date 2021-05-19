@@ -76,7 +76,7 @@ defaultContentLanguage = "ja"
         [[params.skills.list.items]]
         details = "Redis/memcached"
         [[params.skills.list.items]]
-        details = "CI/ユニットテスト/静的解析/開発環境整備"
+        details = "継続的インテグレーション/ユニットテスト/静的解析/開発環境整備"
         [[params.skills.list.items]]
         details = "AWS/GCP"
         [[params.skills.list.items]]
@@ -103,7 +103,7 @@ defaultContentLanguage = "ja"
         [[params.skills.list.items]]
         details = "問題解決能力"
         [[params.skills.list.items]]
-        details = "プロジェクトマネジメント力"
+        details = "プロジェクトマネージメント力"
         [[params.skills.list.items]]
         details = "業務改善能力"
 
@@ -184,7 +184,7 @@ defaultContentLanguage = "ja"
 
     [params.summary]
         enable = true
-        text = "10年以上の経験を持ち、PHPとオブジェクト指向設計を愛するWebエンジニア。大手システムインテグレーターでのかっちりした受託開発と、1→10フェーズのスタートアップでのスピード感ある自社サービス開発の両方の経験を持つ。前職ではPHPとLaravelのテックリードを務め開発をリードした。計画立案能と課題遂行が得意で、納期と品質の期待値を外さないことに長けている。特に好きな分野は「複雑な業務をシステムに落とし込むこと」と「静的解析・ユニットテスト・継続的インテグレーション等の生産性向上の仕組みづくり」。重視することは「自分が開発を楽しむこと」と「プロとして納期と品質の期待値を外さず顧客に価値を届けること」。最大10人のプロジェクトマネジメント経験を持つが、マネジメントより自分で手を動かして開発する仕事が好き。PHPが好きで得意だが、大学・大学院でプログラミングとコンピュータサイエンスを学んだバックグラウンドを持ち、PHP以外にも複数の動的型付け・静的型付け言語の経験を持つ。"
+        text = "10年以上の経験を持ち、PHPとオブジェクト指向設計を愛するWebエンジニア。大手システムインテグレーターでのかっちりした受託開発と、1→10フェーズのスタートアップでのスピード感ある自社サービス開発の両方の経験を持つ。前職ではPHPとLaravelのテックリードを務め開発をリードした。計画立案能と課題遂行が得意で、納期と品質の期待値を外さないことに長けている。特に好きな分野は「複雑な業務をシステムに落とし込むこと」と「静的解析・ユニットテスト・継続的インテグレーション等の生産性向上の仕組みづくり」。重視することは「自分が開発を楽しむこと」と「プロとして納期と品質の期待値を外さず顧客に価値を届けること」。最大10人のプロジェクトマネージメント経験を持つが、マネージメントより自分で手を動かして開発する仕事が好き。PHPが好きで得意だが、大学・大学院でプログラミングとコンピューターサイエンスを学んだバックグラウンドを持ち、PHP以外にも複数の動的型付け・静的型付け言語の経験を持つ。"
 
 
 
@@ -202,9 +202,9 @@ defaultContentLanguage = "ja"
         company = "株式会社ホワイトプラス"
         details = "サーバーサイドエンジニアとして自社サービスをドメイン駆動設計で開発しながら、PHPのテックリードとしてユニットテスト・静的解析・継続的インテグレーションの導入やシステムのあるべき姿のデザインおよびその実現に向けた開発リードを務める。 "
         [[params.experience.list.items]]
-        details = "PHPのバージョンアップ（5.5→7.2）やLaravelのバージョンアップ（4.2→5.5→6）、PHP環境のDocker化を行ったり、インフラ担当と協力してのKubernetes化・CD基盤の構築を行い、生産性や開発速度の向上させた"
+        details = "PHPのバージョンアップ（5.5→7.2）やLaravelのバージョンアップ（4.2→5.5→6）、PHP環境のDocker化を行ったり、インフラ担当と協力してのKubernetes化・継続的デリバリー基盤の構築を行い、生産性や開発速度の向上させた"
         [[params.experience.list.items]]
-        details = "CI環境の構築・ユニットテスト・静的解析の導入（PHPStan、PHP_CodeSniffer等）、チームへの展開を行い、堅牢化した"
+        details = "継続的インテグレーション環境の構築・ユニットテスト・静的解析の導入（PHPStan、PHP_CodeSniffer等）、チームへの展開を行い、堅牢化した"
         [[params.experience.list.items]]
         details = "PHP/Laravel+オブジェクト指向設計・ドメイン駆動設計を用いたサーバーサイドの開発（PHP/Laravel/MySQL）をチームと実践した"
         [[params.experience.list.items]]
@@ -218,15 +218,15 @@ defaultContentLanguage = "ja"
         company = "株式会社日立ソフトウェアエンジニアリング（現・株式会社日立ソリューションズ）"
         details = "システムアーキテクトとして高負荷・高トラフィックなニュースサイトのアーキテクチャー設計および開発リードを務める。さらにプレイングマネージャーとして納品後の運用において最大10人のチームのプロジェクトマネージメントおよび開発リードを務める。"
         [[params.experience.list.items]]
-        details = "パフォーマンス、スケーラビリティ、開発コストを考慮したアーキテクチャ設計を行い、秒間3,000リクエスト、月間10億PVを捌くシステムを構築し運用"
+        details = "パフォーマンス、スケーラビリティー、開発コストを考慮したアーキテクチャー設計を行い、秒間3,000リクエスト、月間10億PVを捌くシステムを構築し運用"
         [[params.experience.list.items]]
         details = "Web API、サーバーサイド、フロントエンド、共通部品やフレームワークまわりの開発を行うともに、コードレビューを通してチームの開発をリード"
         [[params.experience.list.items]]
-        details = "CI、ユニットテスト、静的解析を導入し、バグの発生の低減や改修コストの低減を達成"
+        details = "継続的インテグレーション、ユニットテスト、静的解析を導入し、バグの発生の低減や改修コストの低減を達成"
         [[params.experience.list.items]]
-        details = "パフォーマンスやリソースの監視設計・実装を行い、SQLやPHP、Webサーバ（Apache）のパフォーマンスのチューニングを行うことで、安定した運用を実現"
+        details = "パフォーマンスやリソースの監視設計・実装を行い、SQLやPHP、Webサーバー（Apache）のパフォーマンスのチューニングを行うことで、安定した運用を実現"
         [[params.experience.list.items]]
-        details = "要件定義・工数見積もり・顧客との折衝を行いながら、プロジェクトマネジメントを行い、最大10人の社員・協力会社からなるチームを回した"
+        details = "要件定義・工数見積もり・顧客との折衝を行いながら、プロジェクトマネージメントを行い、最大10人の社員・協力会社からなるチームを回した"
 
         [[params.experience.list]]
         title = "サーバーサイドエンジニア"
@@ -259,7 +259,7 @@ defaultContentLanguage = "ja"
         [[params.projects.list]]
         title = "PHP WebDAV Client"
         meta = "オープンソース"
-        tagline = "PHP用のWebDAVクライアント。PSR-7（HTTPメッセージインターフェイス）、PSR-17（HTTPファクトリ）、PST-18（HTTPクライアント）を使用して実装。 <a class=\"resume-link\" href=\"https://github.com/ngmy/l4-dav\" target=\"_blank\">https://github.com/ngmy/l4-dav</a>"
+        tagline = "PHP用のWebDAVクライアント。PSR-7（HTTPメッセージインターフェイス）、PSR-17（HTTPファクトリー）、PST-18（HTTPクライアント）を使用して実装。 <a class=\"resume-link\" href=\"https://github.com/ngmy/l4-dav\" target=\"_blank\">https://github.com/ngmy/l4-dav</a>"
 
 
 
