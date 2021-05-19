@@ -4,7 +4,7 @@ baseURL = "https://ngmy.github.io/resume/"
 languageCode = "ja"
 title = "職務経歴書"
 theme = "hugo-devresume-theme"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "G-20TT5CYF3T"
 defaultContentLanguage = "ja"
 
 
