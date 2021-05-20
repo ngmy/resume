@@ -17,6 +17,16 @@ body {
     ;
 }
 
+.icon-pay-career:before {
+  content: '';
+  background-image: url('../images/pay-career.png');
+  display: inline-block;
+  width: 0.875em;
+  height: 0.875em;
+  background-size: contain;
+  vertical-align: top;
+}
+
 .icon-qiita:before {
   content: '';
   background-image: url('../images/qiita.png');

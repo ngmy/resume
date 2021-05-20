@@ -41,16 +41,20 @@ defaultContentLanguage = "ja"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
-        url = "tel:#"
+        url = "tel:09057595237"
         text = "090 5759 5237"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:#"
+        url = "mailto:y.nagamiya@gmail.com"
         text = "y.nagamiya@gmail.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "https://ngmy.github.io/"
         text = "ngmy.github.io"
+        [[params.contact.list]]
+        icon = "svg-inline--fa icon-pay-career"
+        url = "https://pay-career.com/spot_request/2033945709/"
+        text = "pay-career.com"
 
 
 
@@ -259,7 +263,7 @@ defaultContentLanguage = "ja"
         [[params.projects.list]]
         title = "PHP WebDAV Client"
         meta = "オープンソース"
-        tagline = "PHP用のWebDAVクライアント。PSR-7（HTTPメッセージインターフェイス）、PSR-17（HTTPファクトリー）、PST-18（HTTPクライアント）を使用して実装。 <a class=\"resume-link\" href=\"https://github.com/ngmy/l4-dav\" target=\"_blank\">https://github.com/ngmy/l4-dav</a>"
+        tagline = "PHP用のWebDAVクライアント。PSR-7（HTTPメッセージインターフェイス）、PSR-17（HTTPファクトリー）、PSR-18（HTTPクライアント）を使用して実装。 <a class=\"resume-link\" href=\"https://github.com/ngmy/l4-dav\" target=\"_blank\">https://github.com/ngmy/l4-dav</a>"
 
 
 
@@ -307,7 +311,7 @@ defaultContentLanguage = "ja"
         url = "https://github.com/ngmy"
         title = "ngmy"
         [[params.social.list]]
-        icon = "icon-qiita"
+        icon = "svg-inline--fa icon-qiita"
         url = "https://qiita.com/ngmy"
         title = "@ngmy"
         [[params.social.list]]
