@@ -1,11 +1,12 @@
 # Page settings
 
+defaultContentLanguage = "ja"
+
 baseURL = "https://ngmy.github.io/resume/"
 languageCode = "ja"
 title = "永宮悠大の職務経歴書"
 theme = "hugo-devresume-theme"
 googleAnalytics = "G-20TT5CYF3T"
-defaultContentLanguage = "ja"
 
 
 
@@ -323,3 +324,5 @@ defaultContentLanguage = "ja"
 
 
 
+    [params.footer]
+        copyright = "[永宮 悠大](https://ngmy.github.io/)"
