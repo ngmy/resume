@@ -21,18 +21,18 @@ body {
   content: '';
   background-image: url('../images/pay-career.png');
   display: inline-block;
-  width: 0.875em;
-  height: 0.875em;
+  width: 1em;
+  height: 1em;
   background-size: contain;
-  vertical-align: top;
+  vertical-align: baseline;
 }
 
 .icon-qiita:before {
   content: '';
   background-image: url('../images/qiita.png');
   display: inline-block;
-  width: 0.875em;
-  height: 0.875em;
+  width: 1em;
+  height: 1em;
   background-size: contain;
-  vertical-align: bottom;
+  vertical-align: text-bottom;
 }
