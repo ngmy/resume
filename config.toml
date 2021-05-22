@@ -262,12 +262,12 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.projects.list]]
         title = "Webloyer"
         meta = "オープンソース"
-        tagline = "PHP製のデプロイツール「Deployer」のWebユーザーインターフェイス。Laravelを使用してドメイン駆動設計で開発している。 <a class=\"resume-link\" href=\"https://github.com/ngmy/webloyer\" target=\"_blank\">https://github.com/ngmy/webloyer</a>"
+        tagline = "PHP製のデプロイツール「Deployer」のWebユーザーインターフェイス。Laravelを使用してドメイン駆動設計で開発している。 <a class=\"resume-link\" href=\"https://github.com/ngmy/webloyer\">https://github.com/ngmy/webloyer</a>"
 
         [[params.projects.list]]
         title = "PHP WebDAV Client"
         meta = "オープンソース"
-        tagline = "PHP用のWebDAVクライアント。PSR-7（HTTPメッセージインターフェイス）、PSR-17（HTTPファクトリー）、PSR-18（HTTPクライアント）を使用して開発している。 <a class=\"resume-link\" href=\"https://github.com/ngmy/l4-dav\" target=\"_blank\">https://github.com/ngmy/l4-dav</a>"
+        tagline = "PHP用のWebDAVクライアント。PSR-7（HTTPメッセージインターフェイス）、PSR-17（HTTPファクトリー）、PSR-18（HTTPクライアント）を使用して開発している。 <a class=\"resume-link\" href=\"https://github.com/ngmy/l4-dav\">https://github.com/ngmy/l4-dav</a>"
 
 
 
@@ -299,7 +299,7 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.information.list]]
         title = "関連記事"
         [[params.information.list.items]]
-        details = "【社員インタビュー#エンジニア】WEBだけでなくリアルなサービスが絡んでいるのが面白い | ホワプラSTYLE · <a class=\"resume-link\" href=\"https://style.wh-plus.co.jp/interview-nagamiyayuta/\" target=\"_blank\">https://style.wh-plus.co.jp/interview-nagamiyayuta/</a>"
+        details = "【社員インタビュー#エンジニア】WEBだけでなくリアルなサービスが絡んでいるのが面白い | ホワプラSTYLE · <a class=\"resume-link\" href=\"https://style.wh-plus.co.jp/interview-nagamiyayuta/\">https://style.wh-plus.co.jp/interview-nagamiyayuta/</a>"
 
 
 
