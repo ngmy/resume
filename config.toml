@@ -69,49 +69,48 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.skills.list]]
         title = "テクニカル"
         [[params.skills.list.items]]
-        details = "PHP/Laravel"
+        details = "プログラミング言語（PHP・JavaScript・Bash）"
         [[params.skills.list.items]]
-        details = "JavaScript/jQuery/Angular/React/Vue"
+        details = "フレームワーク・ライブラリー（Laravel・Symfonyコンポーネント・jQuery・Vue・React・Angular）"
         [[params.skills.list.items]]
-        details = "Docker/Kubernetes"
+        details = "関係データベース（MySQL）"
         [[params.skills.list.items]]
-        details = "チューニング（nginx/Apache/php.ini）"
+        details = "非関係データベース（Redis・memcached）"
         [[params.skills.list.items]]
-        details = "MySQL"
+        details = "Webサーバー（nginx・Apache）"
         [[params.skills.list.items]]
-        details = "Redis/memcached"
+        details = "テストツール（PHPUnit・Selenium）"
         [[params.skills.list.items]]
-        details = "継続的インテグレーション/ユニットテスト/静的解析/開発環境整備"
+        details = "静的解析ツール（PHPStan・Psalm・PHPCS・PHP CS Fixer・PHPMD）"
         [[params.skills.list.items]]
-        details = "AWS/GCP"
+        details = "仮想化ツール（Docker・Kubernetes）"
         [[params.skills.list.items]]
-        details = "オブジェクト指向設計/ドメイン駆動設計"
+        details = "継続的インテグレーションサービス（GitHub Actions・CircleCI・Travis CI）"
         [[params.skills.list.items]]
-        details = "SQL/データベース設計"
+        details = "クラウドサービス（AWS・GCP）"
+        [[params.skills.list.items]]
+        details = "開発環境（WSL 2・Mac・Linux）"
+        [[params.skills.list.items]]
+        details = "その他（Git・GitHub・Vim）"
+
+        [[params.skills.list]]
+        title = "プロフェッショナル"
+        [[params.skills.list.items]]
+        details = "サーバーサイド開発"
+        [[params.skills.list.items]]
+        details = "オブジェクト指向設計・ドメイン駆動設計"
         [[params.skills.list.items]]
         details = "アーキテクチャー設計"
         [[params.skills.list.items]]
-        details = "リファクタリング/レガシーコード改善"
+        details = "SQL・データベース設計"
+        [[params.skills.list.items]]
+        details = "継続的インテグレーション・ユニットテスト・静的解析"
+        [[params.skills.list.items]]
+        details = "リファクタリング・レガシーコード改善"
         [[params.skills.list.items]]
         details = "プロジェクトマネージメント"
-
-        [[params.skills.list]]
-        title = "ポータブル"
         [[params.skills.list.items]]
-        details = "計画立案能力"
-        [[params.skills.list.items]]
-        details = "課題遂行能力"
-        [[params.skills.list.items]]
-        details = "状況対応能力"
-        [[params.skills.list.items]]
-        details = "スケジュール管理能力"
-        [[params.skills.list.items]]
-        details = "問題解決能力"
-        [[params.skills.list.items]]
-        details = "プロジェクトマネージメント力"
-        [[params.skills.list.items]]
-        details = "業務改善能力"
-
+        details = "ドキュメント作成"
 
 
 
@@ -189,7 +188,7 @@ googleAnalytics = "G-20TT5CYF3T"
 
     [params.summary]
         enable = true
-        text = "10年以上の経験を持ち、PHPとオブジェクト指向設計を愛するWebエンジニア。大手システムインテグレーターでのかっちりした受託開発と、1→10フェーズのスタートアップでのスピード感ある自社サービス開発の両方の経験を持つ。前職ではPHPとLaravelのテックリードを務め開発をリードした。計画立案能と課題遂行が得意で、納期と品質の期待値を外さないことに長けている。特に好きな分野は「複雑な業務をシステムに落とし込むこと」と「静的解析・ユニットテスト・継続的インテグレーション等の生産性向上の仕組みづくり」。重視することは「自分が開発を楽しむこと」と「プロとして納期と品質の期待値を外さず顧客に価値を届けること」。最大10人のプロジェクトマネージメント経験を持つが、マネージメントより自分で手を動かして開発する仕事が好き。PHPが好きで得意だが、大学・大学院でプログラミングとコンピューターサイエンスを学んだバックグラウンドを持ち、PHP以外にも複数の動的型付け・静的型付け言語の経験を持つ。"
+        text = "10年以上の経験を持ち、Webサービスと業務システムの両方の開発経験を持つ、PHPとオブジェクト指向設計を愛するWebエンジニア。大手システムインテグレーターでのかっちりとした受託開発と、1→10フェーズのスタートアップでのスピード感あふれる自社サービス開発の両方の経験を持つ。前職ではPHPとLaravelのテックリードを務め開発をリードした。好きで得意な仕事は「複雑な業務をシステムに落とし込むこと」と「静的解析、ユニットテスト、継続的インテグレーション等の品質・生産性の向上のための仕組みづくり」。仕事をする上で大切にしていることは「自分が楽しむこと」と「納期と品質の期待値を外さず顧客に価値を届けること」。最大10人のプロジェクトマネージメント経験を持つが、マネージメントより自分で手を動かして開発する方が好き。大学・大学院でプログラミングとコンピューターサイエンスを学んだバックグラウンドを持ち、PHP以外にも動的型付けと静的型付けの両方の言語の経験を持つ。"
 
 
 
@@ -205,43 +204,45 @@ googleAnalytics = "G-20TT5CYF3T"
         title = "テックリード"
         dates = "2016 - 2020"
         company = "株式会社ホワイトプラス"
-        details = "サーバーサイドエンジニアとして自社サービスをドメイン駆動設計で開発しながら、PHPのテックリードとしてユニットテスト・静的解析・継続的インテグレーションの導入やシステムのあるべき姿のデザインおよびその実現に向けた開発リードを務める。 "
+        details = "PHPとLaravelのテックリードを務め、自社サービスの開発をリードした。 "
         [[params.experience.list.items]]
-        details = "PHPのバージョンアップ（5.5→7.2）やLaravelのバージョンアップ（4.2→5.5→6）、PHP環境のDocker化を行ったり、インフラ担当と協力してのKubernetes化・継続的デリバリー基盤の構築を行い、生産性や開発速度の向上させた"
+        details = "システムの未来像を描き、PHPとLaravelの継続的なバージョンアップ、パフォーマンスチューニング、コードやデータベースのリファクタリング、共通部品の開発、コードレビュー、ペアプログラミング、知識やノウハウの展開等を行うことで、開発をリードした"
         [[params.experience.list.items]]
-        details = "継続的インテグレーション環境の構築・ユニットテスト・静的解析の導入（PHPStan、PHP_CodeSniffer等）、チームへの展開を行い、堅牢化した"
+        details = "継続的インテグレーション、ユニットテスト、静的解析（PHPStan、PHP_CodeSniffer等）を導入することで、チームの品質・生産性を向上させた"
         [[params.experience.list.items]]
-        details = "PHP/Laravel+オブジェクト指向設計・ドメイン駆動設計を用いたサーバーサイドの開発（PHP/Laravel/MySQL）をチームと実践した"
+        details = "PHPの実行環境をDocker化し、さらにインフラエンジニアと協力してKubernetesを導入することで、インフラの柔軟性を向上させた"
         [[params.experience.list.items]]
-        details = "PHP/Laravelの開発基盤の整備、パフォーマンスチューニング、コードやデータベースのリファクタリング、共通部品の開発およびチームへの展開やコードレビュー・ペアプログラミングを通じてPHPの開発をリードした"
+        details = "開発チームと協力して生産管理システムや原価管理システムをPHPとLaravelを使用してドメイン駆動設計で開発することで、洗練されたシステムを構築する同時に、生産部・経理部の課題を解決し目標達成に貢献した"
         [[params.experience.list.items]]
-        details = "エンジニア採用および面談時のペアプログラミングを提案し実践し、優れた人材の採用に成功した。また、新人教育プログラムの作成・新入社員のメンターも行った"
+        details = "エンジニアの採用面談を担当し、面談時のペアプログラミングを提案・実践することで、即戦力の採用に成功した"
+        [[params.experience.list.items]]
+        details = "新人教育プログラムの作成・実施したり新人のメンターを担当することで、新人教育プログラムの作成・実施したり新人のメンターを担当することで、新人を育成した"
 
         [[params.experience.list]]
-        title = "アーキテクト/プレイングマネージャー"
-        dates = "2010 - 2016"
+        title = "アーキテクト・プレイングマネージャー"
+        dates = "2012 - 2016"
         company = "株式会社日立ソフトウェアエンジニアリング（現・株式会社日立ソリューションズ）"
-        details = "システムアーキテクトとして高負荷・高トラフィックなニュースサイトのアーキテクチャー設計および開発リードを務める。さらにプレイングマネージャーとして納品後の運用において最大10人のチームのプロジェクトマネージメントおよび開発リードを務める。"
+        details = "高負荷・高トラフィックなニュースサイトを受託開発・運用した。開発ではアーキテクトを務め、アーキテクチャーを設計し開発をリードした。納品後の運用ではプレイングマネージャーを務め、最大10人のプロジェクトをマネージメントしながら開発をリードした。"
         [[params.experience.list.items]]
-        details = "パフォーマンス、スケーラビリティー、開発コストを考慮したアーキテクチャー設計を行い、秒間3,000リクエスト、月間10億PVを捌くシステムを構築し運用"
+        details = "パフォーマンス、スケーラビリティー、開発コストを考慮したアーキテクチャー設計を行うことで、顧客の要件を満足するシステムを納期までに納品できた（サービスの成長に応じてシステムを改善し続けることで、最終的に秒間3,000リクエスト、月間10億PVのアクセスに耐えるシステムにできた）"
         [[params.experience.list.items]]
-        details = "Web API、サーバーサイド、フロントエンド、共通部品やフレームワークまわりの開発を行うともに、コードレビューを通してチームの開発をリード"
+        details = "Web API・サーバーサイド・フロントエンド・共通部品・フレームワークまわりの開発、メンバーへのコードレビューを行うことで、開発をリードした"
         [[params.experience.list.items]]
-        details = "継続的インテグレーション、ユニットテスト、静的解析を導入し、バグの発生の低減や改修コストの低減を達成"
+        details = "継続的インテグレーション、ユニットテスト、静的解析を導入することで、チームの品質・生産性を向上させた"
         [[params.experience.list.items]]
-        details = "パフォーマンスやリソースの監視設計・実装を行い、SQLやPHP、Webサーバー（Apache）のパフォーマンスのチューニングを行うことで、安定した運用を実現"
+        details = "パフォーマンス・リソースの監視の設計・実装を行い、Webサーバー（Apache）、アプリケーション（PHP）、データベース・SQL（MySQL）のパフォーマンスをチューニングすることで、3年以上の安定した運用を実現した"
         [[params.experience.list.items]]
-        details = "要件定義・工数見積もり・顧客との折衝を行いながら、プロジェクトマネージメントを行い、最大10人の社員・協力会社からなるチームを回した"
+        details = "納品後の運用において、要件定義・工数見積もり・顧客との折衝を行いながら最大10人の社員・協力会社社員のプロジェクトマネージメントを行うことで、3年以上契約を継続させ、自社の利益および顧客のサービスの成長を達成できた（月間1.8億PV→月間10PV）"
 
         [[params.experience.list]]
         title = "サーバーサイドエンジニア"
-        dates = "2008 - 2010"
+        dates = "2008 - 2012"
         company = "株式会社日立ソフトウェアエンジニアリング（現・株式会社日立ソリューションズ）"
-        details = "サーバーサイドエンジニアとして動的型付けと静的型付けの両方の言語で様々なWebシステムの開発を経験。"
+        details = "サーバーサイドエンジニアを務め、動的型付けと静的型付けの両方の言語で様々なWebシステムを受託開発した。"
         [[params.experience.list.items]]
-        details = "Q&Aコミュニティーサービス（PHP）、健康機器測定データ連携サービス（Java）、ケーブルテレビ局の顧客管理システム（Perl）、検索エンジンの形態素解析モジュール（C/Ruby）等を開発"
+        details = "Q&Aコミュニティーサービス（PHP）、健康機器測定データプラットフォームおよび健康支援サービス（Java）、ケーブルテレビ局の顧客管理システム（Perl）、検索エンジンの形態素解析モジュール（C・Ruby）等を開発した"
         [[params.experience.list.items]]
-        details = "プログラミング以外にも要件定義から納品までの全工程を経験"
+        details = "プログラミング以外にも要件定義から納品までの全工程を経験した"
 
 
 
@@ -259,12 +260,12 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.projects.list]]
         title = "Webloyer"
         meta = "オープンソース"
-        tagline = "PHP製のデプロイツール「Deployer」のWebユーザーインターフェイス。Laravelを使用してドメイン駆動設計で実装。 <a class=\"resume-link\" href=\"https://github.com/ngmy/webloyer\" target=\"_blank\">https://github.com/ngmy/webloyer</a>"
+        tagline = "PHP製のデプロイツール「Deployer」のWebユーザーインターフェイス。Laravelを使用してドメイン駆動設計で開発している。 <a class=\"resume-link\" href=\"https://github.com/ngmy/webloyer\" target=\"_blank\">https://github.com/ngmy/webloyer</a>"
 
         [[params.projects.list]]
         title = "PHP WebDAV Client"
         meta = "オープンソース"
-        tagline = "PHP用のWebDAVクライアント。PSR-7（HTTPメッセージインターフェイス）、PSR-17（HTTPファクトリー）、PSR-18（HTTPクライアント）を使用して実装。 <a class=\"resume-link\" href=\"https://github.com/ngmy/l4-dav\" target=\"_blank\">https://github.com/ngmy/l4-dav</a>"
+        tagline = "PHP用のWebDAVクライアント。PSR-7（HTTPメッセージインターフェイス）、PSR-17（HTTPファクトリー）、PSR-18（HTTPクライアント）を使用して開発している。 <a class=\"resume-link\" href=\"https://github.com/ngmy/l4-dav\" target=\"_blank\">https://github.com/ngmy/l4-dav</a>"
 
 
 
