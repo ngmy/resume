@@ -12,7 +12,7 @@
                                         <p>{{ with .details }}{{ . | markdownify }}{{ end }}</p>
                                         <ul class="list-unstyled resume-skills-list">
                                             {{ range .items }}
-                                            <li class="mb-2">{{ with .details }}{{ . | safeHTML }}{{ end }}</li>
+                                            <li class="mb-2">{{ with .details }}{{ . | markdownify }}{{ end }}</li>
                                             {{ end }}
                                         </ul>
                                     </div>
