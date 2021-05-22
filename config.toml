@@ -69,29 +69,29 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.skills.list]]
         title = "テクニカル"
         [[params.skills.list.items]]
-        details = "プログラミング言語（PHP・JavaScript・Bash）"
+        details = "<strong>プログラミング言語：</strong>PHP、JavaScript、Bash"
         [[params.skills.list.items]]
-        details = "フレームワーク・ライブラリー（Laravel・Symfonyコンポーネント・jQuery・Vue・React・Angular）"
+        details = "<strong>フレームワーク&ライブラリー：</strong>Laravel、Symfonyコンポーネント、jQuery、Vue.js、React、Angular"
         [[params.skills.list.items]]
-        details = "関係データベース（MySQL）"
+        details = "<strong>関係データベース：</strong>MySQL"
         [[params.skills.list.items]]
-        details = "非関係データベース（Redis・memcached）"
+        details = "<strong>NoSQLデータベース：</strong>Redis、memcached"
         [[params.skills.list.items]]
-        details = "Webサーバー（nginx・Apache）"
+        details = "<strong>Webサーバー：</strong>nginx、Apache"
         [[params.skills.list.items]]
-        details = "テストツール（PHPUnit・Selenium）"
+        details = "<strong>テストツール：</strong>PHPUnit、Selenium"
         [[params.skills.list.items]]
-        details = "静的解析ツール（PHPStan・Psalm・PHPCS・PHP CS Fixer・PHPMD）"
+        details = "<strong>静的解析ツール：</strong>PHPStan、Psalm、PHP_CodeSniffer、PHP CS Fixer、PHPMD"
         [[params.skills.list.items]]
-        details = "仮想化ツール（Docker・Kubernetes）"
+        details = "<strong>仮想化ツール：</strong>Docker、Kubernetes"
         [[params.skills.list.items]]
-        details = "継続的インテグレーションサービス（GitHub Actions・CircleCI・Travis CI）"
+        details = "<strong>継続的インテグレーションサービス：</strong>GitHub Actions、CircleCI、Travis CI"
         [[params.skills.list.items]]
-        details = "クラウドサービス（AWS・GCP）"
+        details = "<strong>クラウドサービス：</strong>Amazon Web Services（AWS）、Google Cloud Platform（GCP）"
         [[params.skills.list.items]]
-        details = "開発環境（WSL 2・Mac・Linux）"
+        details = "<strong>開発環境：</strong>Windows Subsystem for Linux 2 (WSL 2) 、Mac、Linux"
         [[params.skills.list.items]]
-        details = "その他（Git・GitHub・Vim）"
+        details = "<strong>その他：</strong>Git、GitHub、Vim"
 
         [[params.skills.list]]
         title = "プロフェッショナル"
@@ -108,9 +108,11 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.skills.list.items]]
         details = "リファクタリング・レガシーコード改善"
         [[params.skills.list.items]]
-        details = "プロジェクトマネージメント"
+        details = "要件定義・工数見積・プロジェクトマネージメント"
         [[params.skills.list.items]]
-        details = "ドキュメント作成"
+        details = "既存システムの理解が早い"
+        [[params.skills.list.items]]
+        details = "わかりやすいドキュメントを書ける"
 
 
 
@@ -288,7 +290,7 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.information.list.items]]
         details = "2011 · 情報セキュリティスペシャリスト試験（現・情報処理安全確保支援士試験）"
         [[params.information.list.items]]
-        details = "2011 · LPIC-1"
+        details = "2011 · Linux Professional Institute Certification Level 1（LPIC-1）"
         [[params.information.list.items]]
         details = "2008 · ソフトウェア開発技術者試験（現・応用情報技術者試験）"
         [[params.information.list.items]]
