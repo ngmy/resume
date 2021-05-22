@@ -4,7 +4,7 @@ defaultContentLanguage = "ja"
 
 baseURL = "https://ngmy.github.io/resume/"
 languageCode = "ja"
-title = "永宮悠大の職務経歴書"
+title = "職務経歴書（永宮悠大）"
 theme = "hugo-devresume-theme"
 googleAnalytics = "G-20TT5CYF3T"
 
