@@ -69,50 +69,50 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.skills.list]]
         title = "テクニカル"
         [[params.skills.list.items]]
-        details = "<strong>プログラミング言語：</strong>PHP、JavaScript、Bash"
+        details = "<strong>プログラミング言語：</strong>PHP、JavaScript、HTML・CSS、Bash"
         [[params.skills.list.items]]
-        details = "<strong>フレームワーク&ライブラリー：</strong>Laravel、Symfonyコンポーネント、jQuery、Vue.js、React、Angular"
+        details = "<strong>フレームワーク：</strong>PHP（Laravel）、JavaScript（Vue.js、React、Angular）、HTML・CSS（Bootstrap）"
         [[params.skills.list.items]]
-        details = "<strong>関係データベース：</strong>MySQL"
+        details = "<strong>ライブラリー：</strong>PHP（Symfonyコンポーネント）、JavaScript（jQuery）"
         [[params.skills.list.items]]
-        details = "<strong>NoSQLデータベース：</strong>Redis、memcached"
+        details = "<strong>データベース：</strong>SQL（MySQL）、NoSQL（Redis、memcached）"
         [[params.skills.list.items]]
         details = "<strong>Webサーバー：</strong>nginx、Apache"
         [[params.skills.list.items]]
-        details = "<strong>テストツール：</strong>PHPUnit、Selenium"
+        details = "<strong>テストツール：</strong>PHP（PHPUnit）、E2E（Selenium）"
         [[params.skills.list.items]]
-        details = "<strong>静的解析ツール：</strong>PHPStan、Psalm、PHP_CodeSniffer、PHP CS Fixer、PHPMD"
+        details = "<strong>静的解析ツール：</strong>PHP（PHPStan、Psalm、PHP_CodeSniffer、PHP CS Fixer、PHPMD）"
         [[params.skills.list.items]]
         details = "<strong>仮想化ツール：</strong>Docker、Kubernetes"
         [[params.skills.list.items]]
         details = "<strong>継続的インテグレーションサービス：</strong>GitHub Actions、CircleCI、Travis CI"
         [[params.skills.list.items]]
-        details = "<strong>クラウドサービス：</strong>Amazon Web Services（AWS）、Google Cloud Platform（GCP）"
+        details = "<strong>クラウドサービス：</strong>AWS、GCP、Heroku"
         [[params.skills.list.items]]
-        details = "<strong>開発環境：</strong>Windows Subsystem for Linux 2 (WSL 2) 、Mac、Linux"
+        details = "<strong>開発環境：</strong>WSL 2、Mac、Linux"
         [[params.skills.list.items]]
         details = "<strong>その他：</strong>Git、GitHub、Vim"
 
         [[params.skills.list]]
         title = "プロフェッショナル"
         [[params.skills.list.items]]
-        details = "サーバーサイド開発"
+        details = "Web開発、サーバーサイド開発"
         [[params.skills.list.items]]
-        details = "オブジェクト指向設計・ドメイン駆動設計"
+        details = "オブジェクト指向設計、ドメイン駆動設計"
         [[params.skills.list.items]]
         details = "アーキテクチャー設計"
         [[params.skills.list.items]]
-        details = "SQL・データベース設計"
+        details = "SQL、データベース設計"
         [[params.skills.list.items]]
-        details = "継続的インテグレーション・ユニットテスト・静的解析"
+        details = "継続的インテグレーション・ユニットテスト・静的解析の仕組みづくり"
         [[params.skills.list.items]]
-        details = "リファクタリング・レガシーコード改善"
+        details = "リファクタリング、レガシーコード改善"
         [[params.skills.list.items]]
-        details = "要件定義・工数見積・プロジェクトマネージメント"
+        details = "ソースコードリーディング、既存システム理解"
         [[params.skills.list.items]]
-        details = "既存システムの理解が早い"
+        details = "要件定義、工数見積、プロジェクトマネージメント"
         [[params.skills.list.items]]
-        details = "わかりやすいドキュメントを書ける"
+        details = "ドキュメント作成"
 
 
 
@@ -137,17 +137,17 @@ googleAnalytics = "G-20TT5CYF3T"
 
 
 
-#    [params.awards]
-#        enable = true
-#
-#        [[params.awards.list]]
-#        name = "Award Lorem Ipsum"
-#        body = "Microsoft lorem ipsum"
-#        date = "2019"
-#        [[params.awards.list]]
-#        name = "Award Donec Sodales"
-#        body = "Oracle Aenean"
-#        date = "2017"
+    [params.awards]
+        enable = false
+
+        [[params.awards.list]]
+        name = "Award Lorem Ipsum"
+        body = "Microsoft lorem ipsum"
+        date = "2019"
+        [[params.awards.list]]
+        name = "Award Donec Sodales"
+        body = "Oracle Aenean"
+        date = "2017"
 
 
 
@@ -190,7 +190,7 @@ googleAnalytics = "G-20TT5CYF3T"
 
     [params.summary]
         enable = true
-        text = "10年以上の経験を持ち、Webサービスと業務システムの両方の開発経験を持つ、PHPとオブジェクト指向設計を愛するWebエンジニア。大手システムインテグレーターでのかっちりとした受託開発と、1→10フェーズのスタートアップでのスピード感あふれる自社サービス開発の両方の経験を持つ。前職ではPHPとLaravelのテックリードを務め開発をリードした。好きで得意な仕事は「複雑な業務をシステムに落とし込むこと」と「静的解析、ユニットテスト、継続的インテグレーション等の品質・生産性の向上のための仕組みづくり」。仕事をする上で大切にしていることは「自分が楽しむこと」と「納期と品質の期待値を外さず顧客に価値を届けること」。最大10人のプロジェクトマネージメント経験を持つが、マネージメントより自分で手を動かして開発する方が好き。大学・大学院でプログラミングとコンピューターサイエンスを学んだバックグラウンドを持ち、PHP以外にも動的型付けと静的型付けの両方の言語の経験を持つ。"
+        text = "10年以上の経験を持ち、Webサービスと業務システムの両方の開発経験を持つ、PHPとオブジェクト指向設計を愛するWebエンジニア。大手システムインテグレーターでのかっちりとした受託開発と、1→10フェーズのスタートアップでのスピード感のある自社サービス開発という両方の経験を持つ。前職ではPHPとLaravelのテックリードを務め技術面で開発をリードした。PHP以外にも動的型付けと静的型付けの両方のプログラミング言語を使用した経験と、大学・大学院でプログラミングとコンピューターサイエンスを学んだバックグラウンドを持つ。PHPの技術で開発をリードでき、大所高所の設計から細部の開発までのすべてに携われるポジションで、PHPとオブジェクト指向を使用したWeb開発の仕事をしたい。最大10人のプロジェクトマネージメント経験を持つが、自分で手を動かして開発する方が好きなのでマネージメントの仕事はやりたくない。好きで得意な仕事は「複雑な業務をシステムに落とし込むこと」と「継続的インテグレーション、ユニットテスト、静的解析等の品質・生産性を向上させるための仕組みづくり」。仕事をする上で大切にしていることは「自分が楽しむこと」と「納期と品質の期待値を外すことなく顧客に価値を届けること」。"
 
 
 
@@ -206,43 +206,51 @@ googleAnalytics = "G-20TT5CYF3T"
         title = "テックリード"
         dates = "2016年～2020年"
         company = "株式会社ホワイトプラス"
-        details = "PHPとLaravelのテックリードを務め、自社サービスの開発をリードした。 "
+        details = "1→10フェーズのスタートアップ。PHPとLaravelの技術で開発をリードして、事業の成長を支えるためにシステムを発展させる役割を担った。"
         [[params.experience.list.items]]
-        details = "システムの未来像を描き、PHPとLaravelの継続的なバージョンアップ、パフォーマンスチューニング、コードやデータベースのリファクタリング、共通部品の開発、コードレビュー、ペアプログラミング、知識やノウハウの展開等を行うことで、開発をリードした"
+        details = "システムの将来像の策定、PHPとLaravelの継続的なバージョンアップ、コードやデータベースのリファクタリング、ドメイン駆動設計による設計の改善をすることでシステムを発展させた"
         [[params.experience.list.items]]
-        details = "継続的インテグレーション、ユニットテスト、静的解析（PHPStan、PHP_CodeSniffer等）を導入することで、チームの品質・生産性を向上させた"
+        details = "継続的インテグレーション・ユニットテスト・静的解析の仕組みを作り、さらに[ビルドを10倍高速化](https://qiita.com/ngmy/items/0821d9c56834b6b15a5f)したり、当時はまだ他社事例が少なかった[PHPStanを導入](https://qiita.com/ngmy/items/1a8ef21c76d74c1d4dfe)して、品質・生産性を向上させた"
         [[params.experience.list.items]]
-        details = "PHPの実行環境をDocker化し、さらにインフラエンジニアと協力してKubernetesを導入することで、インフラの柔軟性を向上させた"
+        details = "PHPの実行環境をDocker化して、インフラエンジニアと協力してKubernetesを導入し、インフラの柔軟性を向上させた"
         [[params.experience.list.items]]
-        details = "開発チームと協力して生産管理システムや原価管理システムをPHPとLaravelを使用してドメイン駆動設計で開発することで、洗練されたシステムを構築する同時に、生産部・経理部の課題を解決し目標達成に貢献した"
+        details = "PHP・Laravelとドメイン駆動設計で生産管理システムや原価管理システムを開発して、システムを洗練させるとともに、事業の成長を支えた"
         [[params.experience.list.items]]
-        details = "エンジニアの採用面談を担当し、面談時のペアプログラミングを提案・実践することで、即戦力の採用に成功した"
+        details = "エンジニアの採用面談を担当し、面談時のペアプログラミングを提案・実践することで、即戦力となるエンジニアの採用に成功した"
         [[params.experience.list.items]]
-        details = "新人教育プログラムの作成・実施したり新人のメンターを担当することで、新人教育プログラムの作成・実施したり新人のメンターを担当することで、新人を育成した"
+        details = "新人教育プログラムの作成・実施や新人のメンターを担当することで、新人を育成した"
 
         [[params.experience.list]]
-        title = "アーキテクト・プレイングマネージャー"
-        dates = "2012年～2016年"
+        title = "プレイングマネージャー"
+        dates = "2013年～2016年"
         company = "株式会社日立ソフトウェアエンジニアリング（現・株式会社日立ソリューションズ）"
-        details = "高負荷・高トラフィックなニュースサイトを受託開発・運用した。開発ではアーキテクトを務め、アーキテクチャーを設計し開発をリードした。納品後の運用ではプレイングマネージャーを務め、最大10人のプロジェクトをマネージメントしながら開発をリードした。"
+        details = "大手システムインテグレーター。受託開発したニュースサイト（後述の経歴で説明）の運用・保守に従事し、プロジェクトマネージメントをしながら技術面で開発をリードする役割を担った。これには顧客のサービスを継続的に成長させ、運用・保守を継続してもらうことも含まれた。"
         [[params.experience.list.items]]
-        details = "パフォーマンス、スケーラビリティー、開発コストを考慮したアーキテクチャー設計を行うことで、顧客の要件を満足するシステムを納期までに納品できた（サービスの成長に応じてシステムを改善し続けることで、最終的に秒間3,000リクエスト、月間10億PVのアクセスに耐えるシステムにできた）"
+        details = "顧客との折衝や最大10人のプロジェクトマネージメントをすることで、3年間で月間ページビュー数1.8億から10億へ成長させ、その間、運用・保守を任せてもらうことに成功した"
         [[params.experience.list.items]]
-        details = "Web API・サーバーサイド・フロントエンド・共通部品・フレームワークまわりの開発、メンバーへのコードレビューを行うことで、開発をリードした"
+        details = "リソースやレスポンスの監視の設計・実装を行い、必要に応じて性能改善やリソース増強をすることで、サービスが成長する間もレスポンスタイム200ミリ秒以下と安定した運用を実現した"
         [[params.experience.list.items]]
-        details = "継続的インテグレーション、ユニットテスト、静的解析を導入することで、チームの品質・生産性を向上させた"
+        details = "チームとともにコードを書き、またチームが書いたコードをレビューすることで、開発をリードした"
+
+        [[params.experience.list]]
+        title = "アーキテクト"
+        dates = "2012年～2013年"
+        company = "株式会社日立ソフトウェアエンジニアリング（現・株式会社日立ソリューションズ）"
+        details = "大手システムインテグレーター。ニュースサイトの受託開発に従事し、「高負荷・高トラフィックに耐えられること」「スケーラビリティーがあること」「既存の別ニュースサイトと記事データを共通化すること」という3つの要件を満たすアーキテクチャーを設計する役割を担った。"
         [[params.experience.list.items]]
-        details = "パフォーマンス・リソースの監視の設計・実装を行い、Webサーバー（Apache）、アプリケーション（PHP）、データベース・SQL（MySQL）のパフォーマンスをチューニングすることで、3年以上の安定した運用を実現した"
+        details = "Webサーバー、APIサーバー、データベースサーバーの3層からなり、WebサーバーにおいてAPIのレスポンスをmemcachedにキャッシュするアーキテクチャを設計することで、「秒間3,000リクエストでレスポンスタイム200ミリ秒以下の性能」「層ごとのスケーラビリティー」「APIを介することによる記事データの共通化」を実現した"
         [[params.experience.list.items]]
-        details = "納品後の運用において、要件定義・工数見積もり・顧客との折衝を行いながら最大10人の社員・協力会社社員のプロジェクトマネージメントを行うことで、3年以上契約を継続させ、自社の利益および顧客のサービスの成長を達成できた（月間1.8億PV→月間10PV）"
+        details = "設計の要となるAPIリクエストまわりとmemcachedまわりの機能を実装してチームに提供し、またチームが書いたコードが設計から逸脱しないようにレビューすることで、設計を守り、形にすることに成功した"
+        [[params.experience.list.items]]
+        details = "継続的インテグレーション、ユニットテスト、静的解析の仕組みを作り、品質・生産性を向上させた"
 
         [[params.experience.list]]
         title = "サーバーサイドエンジニア"
         dates = "2008年～2012年"
         company = "株式会社日立ソフトウェアエンジニアリング（現・株式会社日立ソリューションズ）"
-        details = "サーバーサイドエンジニアを務め、動的型付けと静的型付けの両方の言語で様々なWebシステムを受託開発した。"
+        details = "大手システムインテグレーター。様々なWebシステムの受託開発に従事し、プロジェクトの一員としてシステムを開発する役割を担った。"
         [[params.experience.list.items]]
-        details = "Q&Aコミュニティーサービス（PHP）、健康機器測定データプラットフォームおよび健康支援サービス（Java）、ケーブルテレビ局の顧客管理システム（Perl）、検索エンジンの形態素解析モジュール（C・Ruby）等を開発した"
+        details = "Q&Aコミュニティーサービス（PHP）、健康機器測定データプラットフォームおよびプラットフォームと連携する健康支援サービス（Java）、ケーブルテレビ局の顧客管理システム（Perl）、検索エンジンの形態素解析モジュール（C、Ruby）等を開発した"
         [[params.experience.list.items]]
         details = "プログラミング以外にも要件定義から納品までの全工程を経験した"
 
@@ -297,7 +305,7 @@ googleAnalytics = "G-20TT5CYF3T"
         details = "2007年：基本情報技術者試験"
 
         [[params.information.list]]
-        title = "関連記事"
+        title = "人となり"
         [[params.information.list.items]]
         details = "[【社員インタビュー#エンジニア】WEBだけでなくリアルなサービスが絡んでいるのが面白い | ホワプラSTYLE](https://style.wh-plus.co.jp/interview-nagamiyayuta/)"
 
