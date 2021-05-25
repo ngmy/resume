@@ -18,4 +18,4 @@ ngmy（永宮悠大）の職務経歴書です。
    ```console
    git push origin master
    ```
-5. [ビルド](https://github.com/ngmy/resume/actions/workflows/gh-pages.yml)が無事完了したらGitHub Pagesに公開される。
+5. [ビルド](https://github.com/ngmy/resume/actions/workflows/gh-pages.yml)が無事完了したらGitHub Pagesに公開される
