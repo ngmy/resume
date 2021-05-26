@@ -4,7 +4,7 @@ defaultContentLanguage = "ja"
 
 baseURL = "https://ngmy.github.io/resume/"
 languageCode = "ja"
-title = "職務経歴書（永宮悠大）"
+title = "職務経歴書（永宮 悠大）"
 theme = "hugo-devresume-theme"
 googleAnalytics = "G-20TT5CYF3T"
 
@@ -15,7 +15,7 @@ googleAnalytics = "G-20TT5CYF3T"
 
 [params]
     author = "永宮 悠大"
-    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+    description = "ngmy（永宮 悠大）の職務経歴書。"
 
 
     primaryColor = "#54B689"
