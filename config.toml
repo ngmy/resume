@@ -53,13 +53,13 @@ googleAnalytics = "G-20TT5CYF3T"
         url = "skype:live:y.nagamiya?call"
         text = "live:y.nagamiya"
         [[params.contact.list]]
-        icon = "fas fa-globe"
-        url = "https://ngmy.github.io/"
-        text = "ngmy.github.io"
-        [[params.contact.list]]
         icon = "svg-inline--fa icon-pay-career"
         url = "https://pay-career.com/spot_request/2033945709/"
         text = "pay-career.com"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "https://ngmy.github.io/"
+        text = "ngmy.github.io"
 
 
 
