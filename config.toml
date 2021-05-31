@@ -49,6 +49,10 @@ googleAnalytics = "G-20TT5CYF3T"
         url = "mailto:y.nagamiya@gmail.com"
         text = "y.nagamiya@gmail.com"
         [[params.contact.list]]
+        icon = "fab fa-skype"
+        url = "skype:live:y.nagamiya?call"
+        text = "live:y.nagamiya"
+        [[params.contact.list]]
         icon = "fas fa-globe"
         url = "https://ngmy.github.io/"
         text = "ngmy.github.io"
