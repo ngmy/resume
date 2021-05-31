@@ -220,13 +220,13 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.experience.list.items]]
         details = "生産管理システムや原価管理システムをPHPとLaravelを使用してドメイン駆動設計で開発することで、システムを洗練させるとともに事業の成長を支えた"
         [[params.experience.list.items]]
-        details = "生産管理システムのうち、現場作業員が使用する画面をReactやVue.jsを使用して開発することで、生産現場の生産性を向上させた"
+        details = "生産管理システムのうち、現場作業員が使用する画面をJavaScriptとVue.jsやReactを使用して開発することで、生産現場の生産性を向上させた"
         [[params.experience.list.items]]
         details = "エンジニアの採用面談を担当し、面談時のペアプログラミングを提案・実践することで、即戦力となるエンジニアの採用に成功した"
         [[params.experience.list.items]]
         details = "新人教育プログラムの作成・実施や新人のメンターを担当することで、新人を育成した"
         [[params.experience.list.items]]
-        details = "エンジニアが不足していた時期には、1人で1サービスの注文フォーム・販売管理システム・生産管理システム・問い合わせ管理システム等のサーバーサイドからフロントエンドまでを開発することで、事業の継続を支えた"
+        details = "エンジニアが不足していた時期には、1人で1サービスの注文フォーム・販売管理システム・生産管理システム・問い合わせ管理システム等のサーバーサイド（PHP、Laravel）からフロントエンド（JavaScript、Vue.js、React、Angular、jQuery）までを開発することで、事業の継続を支えた"
 
         [[params.experience.list]]
         title = "プレイングマネージャー"
