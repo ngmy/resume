@@ -1,5 +1,5 @@
 # 職務経歴書
-ngmy（永宮 悠大）の職務経歴書。
+ngmy（永宮悠大）の職務経歴書。
 
 ## 公開先
 [GitHub Pages](https://ngmy.github.io/resume/)
