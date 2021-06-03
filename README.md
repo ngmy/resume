@@ -13,7 +13,7 @@ ngmy（永宮悠大）の職務経歴書です。
    ```console
    hugo server --ignoreCache
    ```
-3. `config.toml`を編集する
+3. `config.toml`ファイルを編集する
 4. masterブランチにプッシュする
    ```console
    git push origin master
