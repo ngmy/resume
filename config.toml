@@ -46,8 +46,8 @@ googleAnalytics = "G-20TT5CYF3T"
         text = "090 5759 5237"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:y.nagamiya@gmail.com"
-        text = "y.nagamiya@gmail.com"
+        url = "mailto:y.nagamiya+work@gmail.com"
+        text = "y.nagamiya+work@gmail.com"
         [[params.contact.list]]
         icon = "fab fa-skype"
         url = "skype:live:y.nagamiya?call"
