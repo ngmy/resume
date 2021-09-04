@@ -14,7 +14,7 @@ ngmy（永宮悠大）の職務経歴書です。
    hugo server --ignoreCache
    ```
 3. `config.toml`ファイルを編集する。
-4. masterブランチにプッシュする。[ビルド](https://github.com/ngmy/resume/actions/workflows/gh-pages.yml)が無事完了したらGitHub Pagesに公開される
+4. masterブランチにプッシュする。[ビルド](https://github.com/ngmy/resume/actions/workflows/gh-pages.yml)が無事完了したらGitHub Pagesに公開される。
    ```console
    git push origin master
    ```
