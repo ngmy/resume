@@ -75,11 +75,11 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.skills.list.items]]
         details = "<strong>プログラミング言語：</strong>PHP、JavaScript、HTML・CSS、Bash"
         [[params.skills.list.items]]
-        details = "<strong>フレームワーク：</strong>PHP（Laravel）、JavaScript（Vue.js、React、Angular）、HTML・CSS（Bootstrap）"
+        details = "<strong>フレームワーク：</strong>PHP（Laravel、CakePHP、Slim）、JavaScript（Vue.js、React、Angular）、HTML・CSS（Bootstrap）"
         [[params.skills.list.items]]
         details = "<strong>ライブラリー：</strong>PHP（Symfonyコンポーネント）、JavaScript（jQuery）"
         [[params.skills.list.items]]
-        details = "<strong>データベース：</strong>SQL（MySQL）、NoSQL（Redis、memcached）"
+        details = "<strong>データベース：</strong>SQL（MySQL）、NoSQL（Redis、memcached、Firestore）"
         [[params.skills.list.items]]
         details = "<strong>Webサーバー：</strong>nginx、Apache"
         [[params.skills.list.items]]
@@ -91,7 +91,7 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.skills.list.items]]
         details = "<strong>継続的インテグレーションサービス：</strong>GitHub Actions、CircleCI、Travis CI"
         [[params.skills.list.items]]
-        details = "<strong>クラウドサービス：</strong>AWS、GCP、Heroku"
+        details = "<strong>クラウドサービス：</strong>AWS、GCP、Heroku、Firebase"
         [[params.skills.list.items]]
         details = "<strong>開発環境：</strong>WSL 2、Mac、Linux"
         [[params.skills.list.items]]
@@ -205,6 +205,15 @@ googleAnalytics = "G-20TT5CYF3T"
 
     [params.experience]
         enable = true
+
+        [[params.experience.list]]
+        title = "フリーランス・個人開発者"
+        dates = "2020年～現在"
+        details = "フリーランスとして活動しながら、個人開発に取り組んでいる。"
+        [[params.experience.list.items]]
+        details = "<strong>フリーランス：</strong>スタートアップにてECサイトの開発に従事し、サーバーサイド（PHP、CakePHP）からフロントエンド（JavaScript、Vue.js）の開発を行いながら、チームへPHP・ユニットテスト・静的解析・ドメイン駆動設計などのノウハウの共有も行っている"
+        [[params.experience.list.items]]
+        details = "<strong>個人開発者：</strong>PWAの開発（Vue.js、Firebase、Firestore）や、GitHubアプリ（PHP、Slim、Heroku）の開発を行っている"
 
         [[params.experience.list]]
         title = "テックリード"
