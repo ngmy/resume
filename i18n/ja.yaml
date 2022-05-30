@@ -3,9 +3,9 @@
 - id: education
   translation: 学歴
 - id: experiences
-  translation: 職務経験
+  translation: 職歴
 - id: information
-  translation: 追加情報
+  translation: その他資格等
 - id: interests
   translation: 趣味
 - id: languages
