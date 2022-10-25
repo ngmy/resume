@@ -233,40 +233,36 @@ googleAnalytics = "G-20TT5CYF3T"
         title = "フリーランス"
         dates = "2021年6月～現在"
         [[params.experience.list.items]]
-        details = "物流スタートアップでLaravelを使用して倉庫管理システムを開発している"
+        details = "マーケティング系スタートアップへの開発支援<ul><li>SaaS型のLINE公式アカウント自動化ツールに対して、LINE APIを使用した設定機能や、ビジネス指標の可視化機能等の追加開発を行った（laravel-admin、React）</li></ul>"
         [[params.experience.list.items]]
-        details = "ECスタートアップでCakePHPを使用してドメイン駆動設計でECサイトを開発した"
+        details = "物流系スタートアップへの開発支援<ul><li>SaaS型の倉庫管理システムに対してFedEx APIを使用した海外発送機能等の追加開発を行った（Laravel、React）</li></ul>"
+        [[params.experience.list.items]]
+        details = "EC系スタートアップへの開発支援<ul><li>ECサイトに対してドメイン駆動設計で追加開発を行った（CakePHP、Vue.js）</li></ul>"
 
         [[params.experience.list]]
         title = "個人開発者"
         dates = "2020年8月～現在"
         [[params.experience.list.items]]
-        details = "Vue.js・Firebase・Firestore・Cloud Functionsを使用してPWAを開発している"
-        [[params.experience.list.items]]
-        details = "PHP・JavaScript・Herokuを使用してGitHubアプリケーションを開発している"
-        [[params.experience.list.items]]
-        details = "主にPHPを使用して個人のOSSを開発している"
+        details = "WebサービスやWebアプリケーションの開発・運営や、OSSの開発・公開を行っている"
 
         [[params.experience.list]]
         title = "テックリード"
         dates = "2016年10月～2020年7月"
         company = "株式会社ホワイトプラス"
         [[params.experience.list.items]]
-        details = "ドメイン駆動設計を導入・実践した"
-        [[params.experience.list.items]]
-        details = "Laravelを使用してドメイン駆動設計で販売管理システム・倉庫管理システム・顧客管理システム・請求管理システム等を開発した"
-        [[params.experience.list.items]]
-        details = "継続的インテグレーション・ユニットテスト・静的解析の仕組みを構築した<ul><li>[リネットのPHPアプリケーションのCIを10倍速くするためにやったこと](https://qiita.com/ngmy/items/0821d9c56834b6b15a5f)</li><li>[PHPStanによる静的解析をLaravelアプリケーションに導入するためにやったこと](https://qiita.com/ngmy/items/1a8ef21c76d74c1d4dfe)</li></ul>"
-        [[params.experience.list.items]]
-        details = "PHP・Laravelの技術でサーバーサイドの開発をリードした"
+        details = "PHP・Laravelの技術でサーバーサイド開発やアーキテクチャー設計をリードした"
         [[params.experience.list.items]]
         details = "PHP・Laravelのバージョンアップをリードした"
         [[params.experience.list.items]]
-        details = "サーバーサイドのアーキテクチャーの検討をリードした"
+        details = "ドメイン駆動設計を導入・実践した"
         [[params.experience.list.items]]
-        details = "エンジニア採用を担当した"
+        details = "継続的インテグレーション・ユニットテスト・静的解析の仕組みを構築した<ul><li>[リネットのPHPアプリケーションのCIを10倍速くするためにやったこと](https://qiita.com/ngmy/items/0821d9c56834b6b15a5f)</li><li>[PHPStanによる静的解析をLaravelアプリケーションに導入するためにやったこと](https://qiita.com/ngmy/items/1a8ef21c76d74c1d4dfe)</li></ul>"
         [[params.experience.list.items]]
-        details = "ジュニアエンジニアのメンターを担当した"
+        details = "販売管理システム・倉庫管理システム・顧客管理システム・請求管理システム等を開発した"
+        [[params.experience.list.items]]
+        details = "ヤマトB2・エコ配等を利用した発送機能を開発した"
+        [[params.experience.list.items]]
+        details = "エンジニア採用やジュニアエンジニアのメンターを担当した"
         [[params.experience.list.items]]
         details = "エンジニアが不足していた時期は、一つのサービスのフロントエンドからサーバーサイドまでのすべてを一人で開発した"
 
