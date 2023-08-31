@@ -11,10 +11,11 @@ ngmy（永宮悠大）の職務経歴書です。
    ```
 2. Hugoサーバーを起動する。
    ```console
-   hugo server --ignoreCache
+   docker-compose up -d
    ```
 3. `config.toml`ファイルを編集する。
-4. masterブランチにプッシュする。[ビルド](https://github.com/ngmy/resume/actions/workflows/gh-pages.yml)が無事完了したらGitHub Pagesに公開される。
+4. [http://localhost:1313/resume/](http://localhost:1313/resume/)で編集結果を確認する。
+5. masterブランチにプッシュする。[ビルド](https://github.com/ngmy/resume/actions/workflows/gh-pages.yml)が無事完了したらGitHub Pagesに公開される。
    ```console
    git push origin master
    ```
