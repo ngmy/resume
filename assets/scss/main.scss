@@ -57,6 +57,12 @@ body {
   section {
     break-inside: avoid;
   }
+
+  hr:has(+ .resume-footer),
+  .resume-footer,
+  footer {
+    display: none;
+  }
 }
 
 .resume-profile-image {
