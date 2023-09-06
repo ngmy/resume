@@ -112,11 +112,11 @@ googleAnalytics = "G-20TT5CYF3T"
 
         [[params.education.list]]
         degree = "修士（工学）"
-        university = "群馬大学 大学院工学研究科博士前期課程 情報工学専攻（現・群馬大学 大学院情報学研究科修士課程 情報科学プログラム）"
+        university = "群馬大学 大学院工学研究科 情報工学専攻（現・群馬大学 大学院情報学研究科 情報科学プログラム）"
         dates = "2006年～2008年"
         [[params.education.list]]
         degree = "学士（工学）"
-        university = "群馬大学 工学研究科 情報工学科（現・群馬大学 情報学部 計算機科学プログラム）"
+        university = "群馬大学 工学部 情報工学科（現・群馬大学 情報学部 計算機科学プログラム）"
         dates = "2002年～2006年"
 
 
