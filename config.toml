@@ -3,7 +3,7 @@
 defaultContentLanguage = "ja"
 
 baseURL = "https://ngmy.github.io/resume/"
-languageCode = "ja"
+languageCode = "ja_JP"
 title = "職務経歴書（永宮 悠大）"
 theme = "hugo-devresume-theme"
 googleAnalytics = "G-20TT5CYF3T"
@@ -28,7 +28,7 @@ googleAnalytics = "G-20TT5CYF3T"
         enable = true
         name = "<ruby>永宮<rt>ながみや<rt></ruby>&nbsp;<ruby>悠大<rt>ゆうた</rt></ruby>"
         tagline = "フリーランスWebエンジニア"
-        avatar = "avatar.png"
+        avatar = "profile.png"
 
 
 
@@ -102,23 +102,7 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.skills.list]]
         title = "ソフトスキル"
         [[params.skills.list.items]]
-        details = "課題発見能力"
-        [[params.skills.list.items]]
-        details = "問題解決能力"
-        [[params.skills.list.items]]
-        details = "情報収集能力"
-        [[params.skills.list.items]]
-        details = "洞察力"
-        [[params.skills.list.items]]
-        details = "自走力"
-        [[params.skills.list.items]]
-        details = "プロ意識"
-        [[params.skills.list.items]]
-        details = "細部への注意"
-        [[params.skills.list.items]]
-        details = "粘り強さ"
-        [[params.skills.list.items]]
-        details = "学習意欲"
+        details = "課題発見能力、問題解決能力、情報収集能力、洞察力、自走力、プロ意識、細部への注意、粘り強さ、学習意欲"
 
 
 
@@ -179,11 +163,7 @@ googleAnalytics = "G-20TT5CYF3T"
         enable = true
 
         [[params.interests.list]]
-        name = "クライミング"
-        [[params.interests.list]]
-        name = "囲碁"
-        [[params.interests.list]]
-        name = "プログラミング"
+        name = "クライミング、囲碁、プログラミング"
 
 
 
