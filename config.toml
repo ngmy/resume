@@ -93,7 +93,7 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.skills.list.items]]
         details = "その他開発環境：Docker（5年以上）、WSL（3年以上）、Mac（10年以上）、Linux（10年以上）、Vim（10年以上）"
         [[params.skills.list.items]]
-        details = "マネージメント経験：プロジェクトマネージメント（最大10人、3年以上）"
+        details = "マネージメント経験：最大10人のプロジェクトのプロジェクトマネージメント（3年以上）"
         [[params.skills.list.items]]
         details = "開発パート経験：要件定義（10年以上）、設計（15年以上）、実装（15年以上）、テスト（15年以上）、運用（10年以上）"
         [[params.skills.list.items]]
@@ -174,7 +174,7 @@ googleAnalytics = "G-20TT5CYF3T"
 
     [params.summary]
         enable = true
-        text = "15年以上のWeb開発経験を持つWebエンジニア。PHPとオブジェクト指向が好き。大手SIerでの受託開発経験と1→10フェーズのスタートアップでの自社サービス開発経験の両方を持つ。前職ではPHP・Laravelのテックリード経験を持つ。PHP以外にも動的言語と静的言語の両方の使用経験を持ち、大学・大学院でコンピューターサイエンスを学んだバックグラウンドを持つ。好きな仕事は「複雑な業務を設計に落とし込むこと」。仕事をする上で大切にしている価値観は「自分が楽しむこと」と「納期と品質の期待値を外さず顧客に価値を届けること」。"
+        text = "15年以上のWeb開発経験を持つ、PHPとオブジェクト指向が好きなフリーランスのWebエンジニア。大手SIerでの受託開発経験と1→10フェーズのスタートアップでの自社サービス開発経験の両方を持つ。前職ではPHP・Laravelのテックリード経験も持つ。PHP以外にも動的言語と静的言語の両方の使用経験を持ち、大学・大学院でコンピューターサイエンスを学んだバックグラウンドを持つ。好きな仕事は「複雑な業務を設計に落とし込むこと」。仕事をする上で大切にしている価値観は「自分が楽しむこと」と「納期と品質の期待値を外さず顧客に価値を届けること」。"
 
 
 
@@ -186,7 +186,7 @@ googleAnalytics = "G-20TT5CYF3T"
         enable = true
 
         [[params.experience.list]]
-        title = "フリーランス"
+        title = "フリーランスWebエンジニア"
         dates = "2021年6月～現在"
         [[params.experience.list.items]]
         details = """SaaS系CRMツールを提供するスタートアップへの開発支援（2022年10月～現在）
@@ -299,7 +299,7 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.information.list]]
         title = "人となり"
         [[params.information.list.items]]
-        details = "[【社員インタビュー#エンジニア】WEBだけでなくリアルなサービスが絡んでいるのが面白い | ホワプラSTYLE](https://style.wh-plus.co.jp/interview-nagamiyayuta/)"
+        details = "[【社員インタビュー#エンジニア】WEBだけでなくリアルなサービスが絡んでいるのが面白い | ホワプラSTYLE](http://web.archive.org/web/20220529115643/https://style.wh-plus.co.jp/interview-nagamiyayuta/)"
 
 
 
@@ -317,10 +317,6 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.social.list]]
         icon = "svg-inline--fa icon-qiita"
         url = "https://qiita.com/ngmy"
-        title = "@ngmy"
-        [[params.social.list]]
-        icon = "fab fa-twitter-square"
-        url = "https://twitter.com/ngmy"
         title = "@ngmy"
 
 
