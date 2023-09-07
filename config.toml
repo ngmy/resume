@@ -26,7 +26,7 @@ googleAnalytics = "G-20TT5CYF3T"
 
     [params.profile]
         enable = true
-        name = "<ruby>永宮<rt>ながみや<rt></ruby>&nbsp;<ruby>悠大<rt>ゆうた</rt></ruby>"
+        name = "<ruby>永宮<rt>ながみや<rt></ruby> <ruby>悠大<rt>ゆうた</rt></ruby>"
         tagline = "フリーランスWebエンジニア"
         avatar = "profile.png"
 
