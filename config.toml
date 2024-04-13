@@ -189,28 +189,34 @@ googleAnalytics = "G-20TT5CYF3T"
         title = "フリーランスWebエンジニア"
         dates = "2021年6月～現在"
         [[params.experience.list.items]]
-        details = """SaaS系CRMツールを提供するスタートアップへの開発支援（2022年10月～現在）
+        details = """SaaS型業務委託管理システムを提供するスタートアップでの技術課題解決（2023年10月～現在）
         <ul>
-          <li>スキーマ駆動開発の導入してのAPIの新規開発（Laravel、OpenAPI Generator）</li>
-          <li>分析用データレイクの設計・構築（Amazon Athena、AWS Lambda）</li>
-          <li>顧客向け管理画面の追加開発（laravel-admin）</li>
-          <ul>
-            <li>全文検索機能（Laravel Scout、Algolia）</li>
-            <li>外部連携機能（Google API、LINE API）</li>
-          </ul>
+          <li>ソフトウェアアーキテクチャの策定</li>
+          <li>コーディング規約の策定</li>
+          <li>設計・テスト方針の策定</li>
+          <li>継続的インテグレーション環境の構築</li>
         </ul>
         """
         [[params.experience.list.items]]
-        details = """物流アウトソーシングサービスを提供するスタートアップへの開発支援（2022年4月～2022年9月）
+        details = """SaaS型CRMツールを提供するスタートアップのCTO直下でのPoC（2022年10月～2023年9月）
+        <ul>
+          <li>API開発でのスキーマ駆動開発の導入・実践（Laravel、OpenAPI Generator）</li>
+          <li>分析用データレイクの設計・構築（Amazon Athena、AWS Lambda）</li>
+          <li>全文検索機能の検証（Laravel Scout、Algolia）</li>
+          <li>各種プロトタイプ開発（Google API、LINE API）</li>
+        </ul>
+        """
+        [[params.experience.list.items]]
+        details = """物流アウトソーシングサービスを提供するスタートアップでの開発支援（2022年4月～2022年9月）
         <ul>
           <li>海外発送機能の新規開発（Laravel、FedEx API）</li>
         </ul>
         """
         [[params.experience.list.items]]
-        details = """ECサイトを運営するスタートアップへの開発支援（2021年6月～2022年3月）
+        details = """ECサイトを運営するスタートアップでの開発支援（2021年6月～2022年3月）
         <ul>
           <li>ECサイトの追加開発（CakePHP）</li>
-          <li>ドメイン駆動設計のサポート</li>
+          <li>ドメイン駆動設計の支援</li>
         </ul>
         """
 
@@ -265,6 +271,10 @@ googleAnalytics = "G-20TT5CYF3T"
         enable = true
 
         [[params.projects.list]]
+        title = "[MoonBoard Search](https://ngmy.github.io/apps/moonboard-search/)"
+        meta = "Webアプリケーション"
+        tagline = "MoonBoardの課題を検索するためのWebアプリケーション。"
+        [[params.projects.list]]
         title = "[Webloyer](https://github.com/ngmy/webloyer)"
         meta = "OSS"
         tagline = "PHP製のデプロイツール「Deployer」のデプロイを管理するためのWebユーザーインターフェイス。"
@@ -295,11 +305,6 @@ googleAnalytics = "G-20TT5CYF3T"
         details = "2008年：ソフトウェア開発技術者試験（現・応用情報技術者試験）"
         [[params.information.list.items]]
         details = "2007年：基本情報技術者試験"
-
-        [[params.information.list]]
-        title = "人となり"
-        [[params.information.list.items]]
-        details = "[【社員インタビュー#エンジニア】WEBだけでなくリアルなサービスが絡んでいるのが面白い | ホワプラSTYLE](http://web.archive.org/web/20220529115643/https://style.wh-plus.co.jp/interview-nagamiyayuta/)"
 
 
 
