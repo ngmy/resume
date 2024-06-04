@@ -11,7 +11,7 @@
    ```
 2. Hugoサーバーを起動する。
    ```console
-   docker-compose up -d
+   docker compose up -d
    ```
 3. `config.toml`ファイルを編集する。
 4. [http://localhost:1313/resume/](http://localhost:1313/resume/)で編集結果を確認する。
