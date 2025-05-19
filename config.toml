@@ -41,21 +41,9 @@ googleAnalytics = "G-20TT5CYF3T"
         location = "東京都"
 
         [[params.contact.list]]
-        icon = "fas fa-phone-square"
-        url = "tel:09057595237"
-        text = "090 5759 5237"
-        [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:y.nagamiya+work@gmail.com"
-        text = "y.nagamiya+work@gmail.com"
-        [[params.contact.list]]
-        icon = "fab fa-skype"
-        url = "skype:live:y.nagamiya?call"
-        text = "live:y.nagamiya"
-        [[params.contact.list]]
-        icon = "svg-inline--fa icon-pay-career"
-        url = "https://pay-career.com/spot_request/2033945709/"
-        text = "pay-career.com"
+        url = "https://ngmy.github.io/contact/"
+        text = "ngmy.github.io/contact"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "https://ngmy.github.io/"
