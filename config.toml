@@ -61,36 +61,36 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.skills.list]]
         title = "ハードスキル"
         [[params.skills.list.items]]
-        details = "経験分野：サーバーサイドメインのWeb開発（15年以上）"
+        details = "経験分野：Web開発（15年以上）"
         [[params.skills.list.items]]
-        details = "設計手法：オブジェクト指向設計（10年以上）、ドメイン駆動設計（5年以上）"
+        details = "設計手法：オブジェクト指向設計（15年以上）、ドメイン駆動設計（5年以上）"
         [[params.skills.list.items]]
-        details = "プログラミング言語：PHP（10年以上）、JavaScript（10年以上）"
+        details = "プログラミング言語：PHP（15年以上）、JavaScript（15年以上）"
         [[params.skills.list.items]]
-        details = "フレームワーク：Laravel（10年以上）、CakePHP（1年以上）、Vue.js（3年以上）、React（1年以上）、jQuery（10年以上）"
+        details = "フレームワーク：Laravel（10年以上）、Livewire（1年以上）、Vue.js（3年以上）"
         [[params.skills.list.items]]
-        details = "データベース：MySQL（10年以上）、Redis（5年以上）、memcached（5年以上）、Firestore（1年以上）"
+        details = "データベース：MySQL（15年以上）、Redis（10年以上）、Firestore（3年以上）"
         [[params.skills.list.items]]
-        details = "Webサーバー：nginx（5年以上）、Apache（5年以上）"
+        details = "Webサーバー：nginx（5年以上）"
         [[params.skills.list.items]]
-        details = "クラウドプラットフォーム：AWS（5年以上）、GCP（3年以上）、Heroku（3年以上）、Firebase（1年以上）"
+        details = "クラウドプラットフォーム：AWS（5年以上）、GCP（3年以上）、Heroku（5年以上）、Firebase（3年以上）"
         [[params.skills.list.items]]
-        details = "開発支援ツール：Git（10年以上）、GitHub（10年以上）、GitLab（1年以上）、GitHub Actions（3年以上）、CircleCI（5年以上）、Travis CI（5年以上）"
+        details = "開発支援ツール：Git（10年以上）、GitHub（10年以上）"
         [[params.skills.list.items]]
-        details = "テスト・静的解析ツール：PHPUnit（10年以上）、Selenium（3年以上）、PHPStan（5年以上）、Psalm（1年以上）、PHP_CodeSniffer（10年以上）、PHP CS Fixer（3年以上）、PHPMD（10年以上）"
+        details = "テスト・静的解析ツール：PHPUnit（15年以上）、PHPStan（5年以上）"
         [[params.skills.list.items]]
-        details = "その他開発環境：Docker（5年以上）、WSL（3年以上）、Mac（10年以上）、Linux（10年以上）、Vim（10年以上）"
+        details = "その他開発環境：Docker（5年以上）、WSL（3年以上）、Linux（15年以上）、Vim（15年以上）"
         [[params.skills.list.items]]
-        details = "マネージメント経験：最大10人のプロジェクトのプロジェクトマネージメント（3年以上）"
+        details = "マネジメント経験：最大10人規模のプロジェクトマネジメント（3年以上）"
         [[params.skills.list.items]]
         details = "開発パート経験：要件定義（10年以上）、設計（15年以上）、実装（15年以上）、テスト（15年以上）、運用（10年以上）"
         [[params.skills.list.items]]
-        details = "その他開発経験：アーキテクチャー設計、データベース設計、SQLチューニング、レガシーコード改善、コードレビュー、トラブルシューティング、ドキュメント作成、工数見積、継続的インテグレーション・ユニットテスト・静的解析の仕組みづくり"
+        details = "その他開発経験：アーキテクチャ設計、データベース設計、SQLチューニング"
 
         [[params.skills.list]]
         title = "ソフトスキル"
         [[params.skills.list.items]]
-        details = "課題発見能力、問題解決能力、情報収集能力、洞察力、自走力、プロ意識、細部への注意、粘り強さ、学習意欲"
+        details = "課題発見能力、問題解決能力、情報収集能力、洞察力、自走力、プロ意識、粘り強さ"
 
 
 
@@ -151,7 +151,7 @@ googleAnalytics = "G-20TT5CYF3T"
         enable = true
 
         [[params.interests.list]]
-        name = "クライミング、囲碁、プログラミング"
+        name = "クライミング（ボルダリング）、囲碁、Web・OSS開発"
 
 
 
@@ -162,7 +162,7 @@ googleAnalytics = "G-20TT5CYF3T"
 
     [params.summary]
         enable = true
-        text = "15年以上のWeb開発経験を持つ、PHPとオブジェクト指向が好きなフリーランスのWebエンジニア。大手SIerでの受託開発経験と1→10フェーズのスタートアップでの自社サービス開発経験の両方を持つ。前職ではPHP・Laravelのテックリード経験も持つ。PHP以外にも動的言語と静的言語の両方の使用経験を持ち、大学・大学院でコンピューターサイエンスを学んだバックグラウンドを持つ。好きな仕事はアプリケーション開発で、特に大所高所のアプリケーションアーキテクチャー設計が好きだが、実際に手を動かす開発作業も好き。仕事をする上で大切にしている価値観は「自分が楽しむこと」と「納期と品質の期待値を外さず顧客に価値を届けること」。"
+        text = "15年以上Web開発に携わる、PHPとオブジェクト指向が好きなフリーランスのWebエンジニア。大手SIerでの大規模システム受託開発と、1→10フェーズのスタートアップでの自社サービス開発の両方を経験。前職ではPHP・Laravelのテックリードを務める。PHP以外にも動的・静的の両言語経験を持ち、大学・大学院でコンピューターサイエンス・ソフトウェア工学を学んだ背景を持つ。アプリケーション設計が特に好きだが、実際に手を動かす実装も好き。仕事をする上で大切にしている価値観は、「仕事を楽しむこと」と「納期と品質の期待値を外さず顧客に価値を届けること」。"
 
 
 
@@ -177,35 +177,30 @@ googleAnalytics = "G-20TT5CYF3T"
         title = "フリーランスWebエンジニア"
         dates = "2021年6月～現在"
         [[params.experience.list.items]]
-        details = """SaaS型業務委託管理システムを提供するスタートアップでの技術課題解決（2023年10月～現在）
+        details = """SaaS/FMS（フリーランスマネジメントシステム）系企業（2023年10月～現在）
         <ul>
-          <li>アプリケーションアーキテクチャーの策定</li>
-          <li>コーディング規約の策定</li>
-          <li>設計・テスト・リファクタリング方針の策定</li>
-          <li>テストガイドラインの策定</li>
-          <li>静的解析の導入</li>
+          <li>アプリケーションアーキテクチャ・リファクタリング方針の策定</li>
+          <li>品質・開発標準の策定（コーディング規約、テストガイドライン）</li>
+          <li>開発プロセス改善（CI/ユニットテスト/静的解析の導入・推進）</li>
         </ul>
         """
         [[params.experience.list.items]]
-        details = """SaaS型CRMツールを提供するスタートアップのCTO直下でのPoC（2022年10月～2023年9月）
+        details = """SaaS/CRM系スタートアップ（2022年10月～2023年9月）
         <ul>
-          <li>API開発でのスキーマ駆動開発の導入・実践（Laravel、OpenAPI Generator）</li>
-          <li>分析用データレイクの設計・構築（Amazon Athena、AWS Lambda）</li>
-          <li>全文検索機能の検証（Laravel Scout、Algolia）</li>
-          <li>各種プロトタイプ開発（Google API、LINE API）</li>
+          <li>CTO直下でのPoC開発支援（Laravel）</li>
         </ul>
         """
         [[params.experience.list.items]]
-        details = """物流アウトソーシングサービスを提供するスタートアップでの開発支援（2022年4月～2022年9月）
+        details = """物流系スタートアップ（2022年4月～2022年9月）
         <ul>
-          <li>海外発送機能の新規開発（Laravel、FedEx API）</li>
+          <li>WMSの開発支援（Laravel）</li>
         </ul>
         """
         [[params.experience.list.items]]
-        details = """ECサイトを運営するスタートアップでの開発支援（2021年6月～2022年3月）
+        details = """EC系スタートアップ（2021年6月～2022年3月）
         <ul>
-          <li>ECサイトの追加開発（CakePHP）</li>
-          <li>ドメイン駆動設計の支援</li>
+          <li>ECサイトの開発支援（Laravel）</li>
+          <li>ドメイン駆動設計の導入支援</li>
         </ul>
         """
 
@@ -213,7 +208,7 @@ googleAnalytics = "G-20TT5CYF3T"
         title = "個人開発者"
         dates = "2020年8月～現在"
         [[params.experience.list.items]]
-        details = "Webサービス・Webアプリケーションの開発・運営"
+        details = "Webサービス・Webアプリの開発・運営"
         [[params.experience.list.items]]
         details = "OSSの開発"
 
@@ -222,29 +217,24 @@ googleAnalytics = "G-20TT5CYF3T"
         dates = "2016年10月～2020年7月"
         company = "株式会社ホワイトプラス"
         [[params.experience.list.items]]
-        details = "PHP・Laravelのテックリード（3年以上）"
+        details = "テックリード（PHP/Laravel）：3年以上"
         [[params.experience.list.items]]
-        details = "ドメイン駆動設計の導入・推進・実践（3年以上）"
+        details = "ドメイン駆動設計（導入・推進・実践）：3年以上"
         [[params.experience.list.items]]
-        details = """継続的インテグレーション・ユニットテスト・静的解析の導入・推進・実践（3年以上）
-        <ul>
-          <li>[リネットのPHPアプリケーションのCIを10倍速くするためにやったこと](https://qiita.com/ngmy/items/0821d9c56834b6b15a5f)</li>
-          <li>[PHPStanによる静的解析をLaravelアプリケーションに導入するためにやったこと](https://qiita.com/ngmy/items/1a8ef21c76d74c1d4dfe)</li>
-        </ul>
-        """
+        details = "開発プロセス改善（CI/ユニットテスト/静的解析の導入・推進・実践）：3年以上"
         [[params.experience.list.items]]
-        details = "レガシーコードの改善（3年以上）"
+        details = "レガシーコード改善：3年以上"
 
         [[params.experience.list]]
         title = "システムエンジニア"
         dates = "2008年4月～2016年9月"
         company = "株式会社日立ソフトウェアエンジニアリング（現・株式会社日立ソリューションズ）"
         [[params.experience.list.items]]
-        details = "月間10億リクエスト、秒間3,000リクエストのニュースサイトのアーキテクチャー設計"
+        details = "大規模トラフィックサイトのアーキテクチャ設計（月間10億リクエスト/秒間3,000リクエスト）"
         [[params.experience.list.items]]
-        details = "最大10人のプロジェクトのプロジェクトマネージメント（3年以上）"
+        details = "プロジェクトマネジメント（最大10人規模）：3年以上"
         [[params.experience.list.items]]
-        details = "要件定義から納品までの全工程の開発（5年以上）"
+        details = "システム開発全工程の担当（要件定義～納品）：5年以上"
 
 
 
@@ -261,12 +251,12 @@ googleAnalytics = "G-20TT5CYF3T"
 
         [[params.projects.list]]
         title = "[MoonBoard Search](https://ngmy.github.io/apps/moonboard-search/)"
-        meta = "Webアプリケーション"
-        tagline = "MoonBoardの課題を検索するためのWebアプリケーション。"
+        meta = "Webアプリ"
+        tagline = "MoonBoardの課題検索Webアプリ。"
         [[params.projects.list]]
         title = "[Webloyer](https://github.com/ngmy/webloyer)"
         meta = "OSS"
-        tagline = "PHP製のデプロイツール「Deployer」のデプロイを管理するためのWebユーザーインターフェイス。"
+        tagline = "Deployerのデプロイ管理用Web画面。"
 
 
 
@@ -308,10 +298,6 @@ googleAnalytics = "G-20TT5CYF3T"
         icon = "fab fa-github-square"
         url = "https://github.com/ngmy"
         title = "ngmy"
-        [[params.social.list]]
-        icon = "svg-inline--fa icon-qiita"
-        url = "https://qiita.com/ngmy"
-        title = "@ngmy"
 
 
 
