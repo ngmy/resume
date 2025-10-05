@@ -79,7 +79,7 @@ googleAnalytics = "G-20TT5CYF3T"
         [[params.skills.list.items]]
         details = "テスト・静的解析ツール：PHPUnit（15年以上）、PHPStan（5年以上）"
         [[params.skills.list.items]]
-        details = "その他開発環境：Docker（5年以上）、WSL（3年以上）、Linux（15年以上）、Vim（15年以上）"
+        details = "その他開発環境：Docker（5年以上）、WSL（5年以上）、Linux（15年以上）、Vim（15年以上）"
         [[params.skills.list.items]]
         details = "マネジメント経験：最大10人規模のプロジェクトマネジメント（3年以上）"
         [[params.skills.list.items]]
